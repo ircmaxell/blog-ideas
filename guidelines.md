@@ -1,3 +1,7 @@
+# Blog Post Qualification Criteria 
+
+Any member of php.net may write about any work being carried out in any repository on git.php.net
+
 # Blog Post Guidelines
 
 1. Don't Be A Dick.
@@ -7,4 +11,7 @@
     It would be better to say: "PHPNG generally improves runtime performance; Wordpress saw a 20% speedup with an early version of the branch."
 4. Tripple check *everything*. (speling too)
 5. Keep explanations as simple as possible, no simpler.
-6. Topics for the blog are limited to projects on git.php.net.
+
+# Blog Post Publication Procedure
+
+If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.
