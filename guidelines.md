@@ -1,4 +1,4 @@
-# Qualification Criteria 
+# Qualification Criteria
 
 Any member of php.net may write about any work being carried out in any repository on git.php.net
 
@@ -16,4 +16,4 @@ Any member of php.net may write about any work being carried out in any reposito
 
 Any blog post must be reviewed by a fire breathing dragon and Odins housekeeper before being posted.
 
-If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.
+**If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.**
