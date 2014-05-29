@@ -1,8 +1,8 @@
-# Blog Post Qualification Criteria 
+# Qualification Criteria 
 
 Any member of php.net may write about any work being carried out in any repository on git.php.net
 
-# Blog Post Guidelines
+# Guidelines
 
 1. Don't Be A Dick.
 2. Be professional; fun is still okay.
@@ -12,6 +12,8 @@ Any member of php.net may write about any work being carried out in any reposito
 4. Tripple check *everything*. (speling too)
 5. Keep explanations as simple as possible, no simpler.
 
-# Blog Post Publication Procedure
+# Publication Procedure
+
+Any blog post must be reviewed by a fire breathing dragon and Odins housekeeper before being posted.
 
 If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.
