@@ -7,3 +7,4 @@
     It would be better to say: "PHPNG generally improves runtime performance; Wordpress saw a 20% speedup with an early version of the branch."
 4. Tripple check *everything*. (speling too)
 5. Keep explanations as simple as possible, no simpler.
+6. Topics for the blog are limited to projects on git.php.net.
