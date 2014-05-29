@@ -4,7 +4,7 @@ Any member of php.net may write about any work being carried out on any PHP.net 
 
 # Guidelines
 
-1. Don't Be A Dick.
+1. Use common sense.
 2. Be professional; fun is still okay.
 3. Do not provide generic opinions.
   - This means no campaigning, either for or against a proposal, via a post.
