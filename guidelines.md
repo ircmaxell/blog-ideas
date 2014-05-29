@@ -6,11 +6,14 @@ Any member of php.net may write about any work being carried out on any PHP.net 
 
 1. Don't Be A Dick.
 2. Be professional; fun is still okay.
-3. Represent facts realistically and without marketing speak. 
+3. Do not provide generic opinions.
+  - This means no campaigning, either for or against a proposal, via a post.
+  - Posts should be about what *is* happening, not what you think *should* happen.
+4. Represent facts realistically and without marketing speak. 
   - Instead of: "The speedup is of PHPNG is very impressive; Wordpress got a 20% speedup!" 
     It would be better to say: "PHPNG generally improves runtime performance (link to statistics); Wordpress saw a 20% speedup with an early version of the branch."
-4. Tripple check *everything*. (speling too)
-5. Keep explanations as simple as possible, no simpler.
+5. Tripple check *everything*. (speling too)
+6. Keep explanations as simple as possible, no simpler.
 
 # Publication Procedure
 
