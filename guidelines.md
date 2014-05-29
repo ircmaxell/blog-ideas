@@ -14,7 +14,7 @@ Any member of php.net may write about any work being carried out on any PHP.net 
 
 # Publication Procedure
 
-Before a post is published, an editor must confirm that the content complies with the critiera and guidelines for posting.
+Before a post is published, an editor must confirm that the content complies with the critiera and guidelines for content.
 
 Any member may assume the role of editor for any other members posts, published posts will display the name of the author *and* editor in public.
 
