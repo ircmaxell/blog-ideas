@@ -1,6 +1,8 @@
 # Qualification Criteria
 
-Any member of php.net may write about any work being carried out in any repository on git.php.net
+Any member of php.net may write about any work being carried out on any PHP.net projects
+
+*Projects undergoing RFC qualify when discussion has commenced, and not sooner*
 
 # Guidelines
 
