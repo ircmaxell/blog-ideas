@@ -2,8 +2,6 @@
 
 Any member of php.net may write about any work being carried out on any PHP.net projects
 
-*Projects undergoing RFC qualify when discussion has commenced, and not sooner*
-
 # Guidelines
 
 1. Don't Be A Dick.
