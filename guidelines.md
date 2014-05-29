@@ -22,3 +22,11 @@ Before a post is published, an editor must confirm that the content complies wit
 Any member may assume the role of editor for any other members posts, published posts will display the name of the author *and* editor in public.
 
 **If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.**
+
+# Public Discourse
+
+If a member disagrees with the content of an article, the proper thing to do is engage in discourse; the member who disagrees should write their own blog post *following the proper procedure*, attempting to prove the other party wrong *in a civilized way*.
+
+# Exceptional Circumstances
+
+In the exceptional circumstance that a member feels a post should be removed from the blog, a *reasonable* discussion inclusive of the author and or editor of the post must take place in the public sphere to find a solution.
