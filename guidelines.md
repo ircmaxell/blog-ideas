@@ -14,6 +14,8 @@ Any member of php.net may write about any work being carried out on any PHP.net 
 
 # Publication Procedure
 
-Any blog post must be reviewed by a fire breathing dragon and Odins housekeeper before being posted.
+Before a post is published, an editor must confirm that the content complies with the critiera and guidelines for posting.
+
+Any member may assume the role of editor for any other members posts, published posts will display the name of the author *and* editor in public.
 
 **If these guidelines are followed, no member of php.net shall interfere with any content posted by another member of php.net.**
