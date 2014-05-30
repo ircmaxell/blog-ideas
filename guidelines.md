@@ -25,8 +25,12 @@ Any member may assume the role of editor for any other members posts, published 
 
 # Public Discourse
 
-If a member disagrees with the content of an article, the proper thing to do is engage in discourse; the member who disagrees should write their own blog post *following the proper procedure*, attempting to prove the other party wrong *in a civilized way*.
+If a member disagrees with the content of an article, the proper thing to do is engage in discourse; the member who disagrees should write their own blog post *following the proper procedure*, attempting to prove the other party wrong *in a civilized way*, using facts and reasoning.
 
 # Exceptional Circumstances
 
-In the exceptional circumstance that a member feels a post should be removed from the blog, a *reasonable* discussion inclusive of the author and or editor of the post must take place in the public sphere to find a solution.
+In the exceptional circumstance that a substaintial portion of the group feels a post should be removed from the blog, a *reasonable* discussion inclusive of the author and or editor of the post *must* take place in the public sphere to find an acceptable solution.
+
+# Blog Ethos
+
+By willingly engaging in public discourse we create for ourselves a healthy atmosphere to document and simultaneously debate the development of PHP in a completely transparent way.
