@@ -31,6 +31,6 @@ If a member disagrees with the content of an article, the proper thing to do is 
 
 In the exceptional circumstance that a substaintial portion of the group feels a post should be removed from the blog, a *reasonable* discussion inclusive of the author and or editor of the post *must* take place in the public sphere to find an acceptable solution.
 
-# Blog Ethos
+# Ethos
 
-By willingly engaging in public discourse we create for ourselves a healthy atmosphere to document and simultaneously debate the development of PHP in a completely transparent way.
+By willingly engaging in public discourse we create for ourselves a healthy atmosphere in which to communicate, and simultaneously debate, the development of PHP in a completely transparent way.
